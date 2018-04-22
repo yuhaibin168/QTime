@@ -1,0 +1,2 @@
+# QTime
+QTimeStudy
